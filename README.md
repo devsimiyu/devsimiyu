@@ -14,6 +14,7 @@ I'm **Rodgers Simiyu Wanyonyi**, a Fullstack Software Developer who loves learni
 
 ### What am Building
 - Help Desk Ticketing App
+- Timekeeping service for JIRA projects
 
 ### Connect with me
 
