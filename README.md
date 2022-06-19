@@ -6,15 +6,15 @@ I'm **Rodgers Simiyu Wanyonyi**, a Fullstack Software Developer who loves learni
 - My pronouns - He, Him, His
 - My aromas - Coffee :slightly_smiling_face:
 
+### What am Building
+- Help Desk Ticketing App
+- Timekeeping service for JIRA projects
+
 ![devsimiyu](https://github-readme-stats.vercel.app/api?username=devsimiyu&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsimiyu&theme=tokyonight&layout=compact)
 
 ![devsimiyu](https://komarev.com/ghpvc/?username=devsimiyu)
-
-### What am Building
-- Help Desk Ticketing App
-- Timekeeping service for JIRA projects
 
 ### Connect with me
 
