@@ -9,6 +9,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsimiyu&theme=tokyonight&layout=compact)
 
 
-<a href="https://www.linkedin.com/in/rodgers-wanyonyi-9510a61a4/" style="margin-right: 12px" target="blank"> 
+<a href="https://www.linkedin.com/in/rodgers-wanyonyi-9510a61a4/" style="margin-right: 12px" target="_blank"> 
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="rodgers wanyonyi" width="30" />
 </a>
