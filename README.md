@@ -12,6 +12,9 @@ I'm **Rodgers Simiyu Wanyonyi**, a Fullstack Software Developer who loves learni
 
 ![devsimiyu](https://komarev.com/ghpvc/?username=devsimiyu)
 
+### What am Building
+- Help Desk Ticketing App
+
 ### Connect with me
 
 <a href="https://www.linkedin.com/in/rodgers-wanyonyi-9510a61a4/" style="margin-right: 12px" target="_blank"> 
