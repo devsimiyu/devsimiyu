@@ -1,7 +1,7 @@
 :wave: Jambo! I'm Rodgers Simiyu Wanyonyi, a Fullstack Software Developer who loves learning and experimenting to find creative solutions to evolving problems.
 
 - My passions - DevSecOps
-- My pronouns - He, Him
+- My pronouns - He, Him, His
 - My aromas - Coffee :slightly_smiling_face:
 
 ![devsimiyu](https://github-readme-stats.vercel.app/api?username=devsimiyu&show_icons=true&theme=tokyonight&count_private=true)
