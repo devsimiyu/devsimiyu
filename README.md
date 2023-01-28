@@ -6,11 +6,7 @@ I'm **Rodgers Simiyu Wanyonyi**, a Software Engineer who loves doing what you do
 - My pronouns - He, Him, His
 - My aromas - Coffee :slightly_smiling_face:
 
-![devsimiyu](https://github-readme-stats.vercel.app/api?username=devsimiyu&show_icons=true&theme=tokyonight&count_private=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsimiyu&theme=tokyonight&layout=compact)
-
-![devsimiyu](https://komarev.com/ghpvc/?username=devsimiyu)
 
 ### Connect with me
 
