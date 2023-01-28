@@ -8,6 +8,6 @@ I'm **Rodgers Simiyu Wanyonyi**, a Software Engineer who loves doing what you do
 
 ### Connect with me
 
-<a href="https://twitter.com/devimiyu" target="blank"> 
+<a href="https://twitter.com/devsimiyu" target="blank"> 
   <img align="center" src="https://www.hamiltoncountyhealth.org/wp-content/uploads/Twitter-Logo.png" alt="rodgers simiyu" width="50" />
 </a>
